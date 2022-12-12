@@ -113,14 +113,13 @@ TF-IDF works by penalizing the common words by assigning them lower weights whil
 After training the model we then apply the evaluation measures to check how the model is performing. Accordingly, we use the following evaluation parameters to check the performance of the models respectively
 
 ## Conclusion:
+
+
 - Accuracy Score:
 We will evaluate our model using various metrics such as Accuracy Score, Precision Score, Recall Score, Confusion Matrix and create a roc curve to visualize how our model performed.
 
 we can conclude Logistic Regression model gives better acuuarcy among all models we preoceeded with Logistic Regression.
 
 Accuracy is the ratio of the total number of correct predictions and the total number of predictions.Our data is balanced so we can use accuarcy to predict model ability. Logistic Regression gives 79% accuracy for the data.Hence, our model learnt 79 percent to predict or distinguished between happy or sad sentiments accurately.
-
-
-
 
 
