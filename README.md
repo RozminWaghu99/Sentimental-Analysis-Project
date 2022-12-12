@@ -112,6 +112,7 @@ TF-IDF works by penalizing the common words by assigning them lower weights whil
 ## Step-8: Model Evaluation
 After training the model we then apply the evaluation measures to check how the model is performing. Accordingly, we use the following evaluation parameters to check the performance of the models respectively
 
+## Conclusion:
 - Accuracy Score:
 We will evaluate our model using various metrics such as Accuracy Score, Precision Score, Recall Score, Confusion Matrix and create a roc curve to visualize how our model performed.
 
